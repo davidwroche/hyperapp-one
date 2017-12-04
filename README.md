@@ -17,7 +17,7 @@ This will reload as you save new code :smile:
 
 ***
 
-### To wipe commit history:
+### To wipeds\sd commit history:
 
 **Make sure you are in the boilerplate root:**
 
