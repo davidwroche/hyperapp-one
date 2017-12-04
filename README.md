@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/selfup/hyperapp-one.svg?branch=master)](https://travis-ci.org/selfup/hyperapp-one)
 
-# [HyperApp](https://github.com/hyperapp/hyperapp) *JSX* Boilerplate Repo
+# [HyperApp](https://github.com/hyperapp/hyperapp) *JSX*QWWWE Boilerplate Repo
 
 ### To get started:
 
