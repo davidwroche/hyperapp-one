@@ -31,7 +31,10 @@ module.exports = function webpackStuff(env) {
           presets: [
             'es2015',
           ],
-          plugins: [],
+          plugins: [
+            new webpack.HotModuleReplacementPlugin(),
+            new webpack.NoErrorsPlugin()
+          ],
         },
         include: [
           path.resolve(__dirname, './'),

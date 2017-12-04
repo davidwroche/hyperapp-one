@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
+    "dev": "webpack-devserver",
     "build": "webpack --env production",
     "wipe": "rm -rf .git && git init && git add . && git commit -m 'initial commit'",
     "test": "echo 'FOR TRAVIS CI' && npm run build && rm bundle.css bundle.js && echo 'SUCCESS!'"
@@ -29,6 +30,7 @@
     "imports": "^1.0.0",
     "node-libs-browser": "^2.0.0",
     "webpack": "^3.4.0",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^2.4.2",
+    "webpack-devserver": "0.0.6"
   }
 }
